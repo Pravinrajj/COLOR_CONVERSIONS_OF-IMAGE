@@ -48,7 +48,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="dip-1.png">
+ <img src="dip-1.jpg">
   </td>
   </tr>
 
@@ -66,7 +66,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
-<img src="dip-2">
+<img src="dip-2.jpg">
   </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-<img src="dip-3">
+<img src="dip-3.jpg">
   </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="dip-4">
+ <img src="dip-4.jpg">
   </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ Anaconda - Python 3.7
     
 ### OUTPUT:
 
-<img src="dip-5">
+<img src="dip-5.jpg">
   </td>
   </tr>
 </table>
