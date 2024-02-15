@@ -37,9 +37,9 @@ Split and merge HSV Image
 
 ##### Program: 
 
-### Developed By:PRAVINRAJJ G.K
-### Register Number: 212222240080
-```
+## Developed By:PRAVINRAJJ G.K
+## Register Number: 212222240080
+```py
 # Read and display
     import cv2
     image=cv2.imread('dip.jpg',1)
