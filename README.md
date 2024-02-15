@@ -48,7 +48,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![IMG-20240215-WA0007](https://github.com/Pravinrajj/COLOR_CONVERSIONS_OF-IMAGE/assets/117917674/9765e539-75a6-443d-bb05-efe3305dc54a)">
+ <img src="dip-1.png">
   </td>
   </tr>
 
@@ -66,7 +66,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
-<img src="![IMG-20240215-WA0009](https://github.com/Pravinrajj/COLOR_CONVERSIONS_OF-IMAGE/assets/117917674/27f98645-6e4f-4276-8266-f2d6399f6967)">
+<img src="dip-2">
   </td>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-<img src="![IMG-20240215-WA0006](https://github.com/Pravinrajj/COLOR_CONVERSIONS_OF-IMAGE/assets/117917674/54694f1b-e6ad-4c22-b81a-c93c6e0f5fa8)">
+<img src="dip-3">
   </td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
- <img src="![IMG-20240215-WA0010](https://github.com/Pravinrajj/COLOR_CONVERSIONS_OF-IMAGE/assets/117917674/52804526-340d-459f-8097-0cf3699390e2)">
+ <img src="dip-4">
   </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ Anaconda - Python 3.7
     
 ### OUTPUT:
 
-<img src="![IMG-20240215-WA0013](https://github.com/Pravinrajj/COLOR_CONVERSIONS_OF-IMAGE/assets/117917674/1ed85b91-5f2f-483e-a959-60d3f7742d4f)">
+<img src="dip-5">
   </td>
   </tr>
 </table>
